@@ -1,0 +1,15 @@
+h1{
+    color:red;
+    text-align: center;
+    border-style: solid;
+}
+h2{
+    color: green;
+    text-align: right;
+}
+h3{
+    color: blue;
+    text-align: center;
+    background-color: brown;
+    border-style: dashed;
+}
